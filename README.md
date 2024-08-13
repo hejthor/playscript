@@ -1,3 +1,13 @@
+# PlayScript
+
+## Demo
+
+This link should be opened on a desktop computer.
+
+https://thor-com-se.github.io/playscript/
+
+## Description
+
 As mobile and internet of things (IoT) rely on networked and distributed interactions, they introduce the challenge of concurrency and coordinating devices. This game illustrates these challenges and how they can be solved, by implementing an automated authentication model that generates QR codes and authenticates users.
 
 As this game was developed, it became evident that coordination of concurrent interaction requires a well-structured data model and networking well, and transmission of actions rather than information or models. When information about state or an entire model is transmitted, the game fails to concurrently update every device, due to the reality of networking speed and reliability.
