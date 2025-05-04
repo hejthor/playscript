@@ -4,7 +4,7 @@
 
 This link should be opened on a desktop computer.
 
-https://thor-com-se.github.io/playscript/
+https://hejthor.github.io/playscript/
 
 ## Description
 
